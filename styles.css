@@ -1,21 +1,21 @@
-body{
-    color: rgb(105, 4, 60);
-    background:   rgb(254, 189, 224);
-    font-family: "Nerko One", cursive;
-    margin: 0px;
- }
+body {
+   color: rgb(105, 4, 60);
+   background: rgb(254, 189, 224);
+   font-family: "Nerko One", cursive;
+   margin: 0px;
+}
 
- header {
-    border-bottom: solid 2px rgb(238, 15, 138);
+header {
+   border-bottom: solid 2px rgb(238, 15, 138);
 
-    padding: 20px;
+   padding: 20px;
 
-    font-size: 32px;
+   font-size: 32px;
 
-    color: rgb(65, 4, 34);
- }
+   color: rgb(65, 4, 34);
+}
 
-.chamada{
+.chamada {
    background: lightpink;
    padding-bottom: 80px;
    padding-top: 80px;
@@ -23,26 +23,29 @@ body{
    justify-content: center;
 }
 
-.chamada-texto{
+.chamada-texto {
    margin-right: 5%
 }
+
 h1 {
    font-size: 40px;
 }
 
 p {
-   font-size:Ç 20xp
+   font-size: Ç 20xp
 }
 
 img {
    height: 200px
 }
-.categoria-videos{
+
+.categoria-videos {
    display: flex;
    overflow-x: auto;
    gap: 10px
 }
-.categoria{
-padding-left: 20px;
-padding-right: 20px;
+
+.categoria {
+   padding-left: 20px;
+   padding-right: 20px;
 }
